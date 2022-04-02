@@ -1,0 +1,54 @@
+
+hi bhai  // starting a code pattern
+ bol bhai "HI Farhan Speaking";   // to printing a string
+ 
+   bhai ye hai a = 100;    //declaring a value to a variable [number]
+   bhai ye hai b = 10 + (15*20); //declaring a value to a variable [multiple number]
+   bhai ye hai c = "one"; //declaring a value to a variable [string]
+   bhai ye hai d = 'ok'; //declaring a value to a variable [character]
+   bhai ye hai e = nalla; //declaring a value to a variable [null]
+   bhai ye hai f = sahi; //declaring a value to a variable [true]
+   bhai ye hai g = galat; //declaring a value to a variable [false]
+
+    bol bhai (a);
+    bol bhai (b);
+    bol bhai (c);
+    bol bhai (d);
+    bol bhai (e); 
+    bol bhai (f);
+    bol bhai (g);
+
+
+  //  conditional rendering
+    bhai ye hai h = 10;
+    agar bhai (h < 20) {
+    bol bhai "h is less than 20";
+  } nahi to bhai ( h < 25 ) {
+    bol bhai "h is less than 25";
+  } warna bhai {
+    bol bhai "h is greater than or equal to 25";
+  }
+  //conditional rendering ends here
+
+  //loops start here
+
+    bhai ye hai i = 0;
+    jab tak bhai (i < 10) {
+    i += 1;
+    agar bhai (i == 5) {
+    bol bhai "andar se bol bhai ", i;
+    agla dekh bhai;
+    }
+    agar bhai (i == 6) {
+    bas kar bhai;
+    }
+    bol bhai i;
+    }
+    bol bhai "done";
+  //loops ends here
+
+
+
+
+bye bhai  // ending a code pattern
+
